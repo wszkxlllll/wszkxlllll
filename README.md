@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Kexuan Zhou 👋
 
-<!--
-**wszkxlllll/wszkxlllll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science undergraduate @ **East China Normal University (ECNU)**
 
-Here are some ideas to get you started:
+Interested in **LLM Agents, Computer-Use Agents, Agent Runtime / Harness, and Agentic RL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Current Work
+
+### Computer Harness
+Currently building a **runtime / harness for Computer-Use Agents**.
+
+> Work in progress.
+
+## Projects
+
+- **[NarrativeLoom](https://github.com/wszkxlllll/NarrativeLoom)**  
+  Causal visualization and counterfactual reasoning for long-form narratives.
+
+- **[text_to_postgresql](https://github.com/wszkxlllll/text_to_postgresql)**  
+  An agentic harness for PostgreSQL test generation.
+
+## Contact
+
+📫 Email: `10234700473@stu.ecnu.edu.cn`

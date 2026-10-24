@@ -1,6 +1,6 @@
 ## Hi, I'm Kexuan Zhou 👋
 
-🎓 Data Science undergraduate @ **East China Normal University (ECNU)**
+🎓 Data Science undergraduate
 
 Interested in **LLM Agents, Computer-Use Agents, Agent Runtime / Harness, and Agentic RL**.
 
@@ -21,4 +21,4 @@ Currently building a **runtime / harness for Computer-Use Agents**.
 
 ### Contact
 
-📫 Email: `10234700473@stu.ecnu.edu.cn`
+📫 Email: `jokersun520@gmail.com`

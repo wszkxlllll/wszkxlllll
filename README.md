@@ -1,6 +1,6 @@
 ## Hi, I'm Kexuan Zhou 👋
 
-🎓 Data Science undergraduate
+🎓 Data Science undergraduate @ECNU
 
 Interested in **LLM Agents, Computer-Use Agents, Agent Runtime / Harness, and Agentic RL**.
 
